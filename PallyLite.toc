@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cfff58cbaPally|cffffffffLite
+## Notes: A simple PallyPower: pick a blessing per class, then one click or key blesses whoever in your group is missing it.
+## Author: Stokaido
+## Version: 1.0
+## OptionalDeps: pfUI
+## SavedVariablesPerCharacter: PallyLite_config
+
+PallyLite.lua
