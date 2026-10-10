@@ -22,6 +22,10 @@ A simple PallyPower for Paladins: pick a blessing for each class, then one click
 
 `/plite` shows or hides the window, and `/plite help` lists the rest. Set the key under **Key Bindings → PallyLite**.
 
+## Update notices
+
+If someone in your party, raid or guild has a newer version of one of these add-ons, you get one line in chat with a link to its download page. To do that, the add-ons send each other their version numbers (only those) over the game's add-on channel.
+
 ## Licence
 
 MIT, see [LICENSE](LICENSE).

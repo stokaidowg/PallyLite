@@ -1103,3 +1103,6 @@ SlashCmdList["PALLYLITE"] = function(msg)
     PL:Update()
   end
 end
+
+-- update notices (version.lua)
+if SnapVersions then SnapVersions.Register("PallyLite") end
